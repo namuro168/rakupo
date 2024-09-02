@@ -8,6 +8,7 @@ class TEST:
 
         print("def add")
         return self.txta,self.txtb
+    ###print()
 
 if __name__ == '__main__':
     obj = TEST(1, 5)
